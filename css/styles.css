@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+
+
+#MyClockDisplay{
+    margin: auto 0px;
+    padding: 200px 0px;
+    text-align: center;
+    font-size: 4em;
+    color: rgb(6, 250, 59);
+    font-style: oblique;
+}
+
